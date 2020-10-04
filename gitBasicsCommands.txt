@@ -1,0 +1,11 @@
+Git
+
+1. git init
+2. git add ./[path of file toBe added]
+3. git commit -m "message"
+4. git branch -m branch_name
+5. git remote add origin url
+6. git push -u origin branch_name
+7. git branch
+8. git checkout -b new_branch_name
+9. git pull origin from_branch
